@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonathonmarks770
-- 👀 I’m interested in ... Full stack web development
+- 👀 I’m interested in ... Full stack web development and prompt engineering
 - 🌱 I’m currently learning ... the basics of HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ... Lessons featured on the Odin Project
 - 📫 How to reach me ... send me a message on github or the discord server
